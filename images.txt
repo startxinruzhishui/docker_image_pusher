@@ -5,5 +5,6 @@ xhofe/alist:latest
 solr:8.11.3
 bitnami/prometheus:2.47.2
 grafana/grafana:10.2.0
+icr.io/ibm-messaging/mq:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
