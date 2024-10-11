@@ -9,6 +9,6 @@ peersafes/ibmmq-9.1.0.0
 multiarch/qemu-user-static
 multiarch/qemu-user-static:register
 chat2db/chat2db:latest
-selenium/standalone-chrome
+selenium/standalone-chrome:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
